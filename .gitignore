@@ -1,0 +1,16 @@
+
+.idea/Automation-Test-Program-Batch2-Project.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+tests_web/__pycache__/test_sample.cpython-311-pytest-7.3.0.pyc
+tests_web/__pycache__/__init__.cpython-311.pyc
+page_objects/__pycache__/category_page.cpython-311.pyc
+page_objects/__pycache__/page_base.cpython-311.pyc
+tests_web/__pycache__/conftest.cpython-311-pytest-7.3.1.pyc
+tests_web/__pycache__/test_sample.cpython-311-pytest-7.3.1.pyc
+tests_web/__pycache__/test_web_category.cpython-311-pytest-7.3.1.pyc
+page_objects/__pycache__/product_search.cpython-311.pyc
+*.pyc
+.env
+/test.log
